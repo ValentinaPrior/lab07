@@ -15,3 +15,11 @@
 .transition-div:hover{
     width:200px;
 }
+.transition-text{
+    transition-duration: 0.3s;
+    font-size:16px;
+    background-color: orange;
+}
+.transition-text:hover{
+    font-size:24px;
+}
