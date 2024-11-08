@@ -23,3 +23,9 @@
 .transition-text:hover{
     font-size:24px;
 }
+.scale-div{
+    background-color:pink;
+}
+.scale-div:hover{
+    transform:scale(1.5);
+}
