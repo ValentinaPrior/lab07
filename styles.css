@@ -6,3 +6,12 @@
 .transition-button:hover{
     background-color:green;
 }
+.transition-div{
+    transition-duration: 1s;
+    width:100px;
+    height:100px;
+    background-color: red;
+}
+.transition-div:hover{
+    width:200px;
+}
