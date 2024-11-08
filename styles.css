@@ -39,3 +39,9 @@
     transform:translate(50px,20px);
     
 }
+.translate-div{
+    background-color: aquamarine;
+}
+.translate-div:hover{
+    transform: translateX(-100px) ;
+}
