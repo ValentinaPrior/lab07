@@ -53,3 +53,11 @@
 .skew-heading:hover{
     transform:skewX(20deg);
 }
+.skew-paragraph{
+    background-color: purple;
+    height:100px;
+    width:100px;
+}
+.skew-paragraph:hover{
+    transform:skewY(15deg);
+}
